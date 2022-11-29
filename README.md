@@ -11,9 +11,6 @@
 
 ![](TweetMap-Architecture.png)
 
-![](ScaledCircle.png)
-![](HeatMap.png)
-
 
 ## Project structure
 - **tweet-collector**: collect real-time tweets with Twitter Streaming API and push to Kafka cluster. 
